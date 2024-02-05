@@ -1,0 +1,44 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter-Variable';
+    font-size: smaller;
+}
+#cum1{
+    color: aliceblue;
+    width: 22%;
+    background-color: hsl(0, 0%, 12%);
+    margin: 180px 650px 180px 550px;
+    max-width: 100%;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+img{
+    border-radius: 100px;
+    max-width: 100px;
+}
+#mota{
+    padding: 15px;
+    font-size: 15px;
+}
+h1{
+    font-size: 27px;
+    margin:0%;
+    margin-top: 20px;
+}
+h3{
+    font-size: 16px;
+    margin: 10px 0px;
+    color: hsl(75, 94%, 57%);
+}
+.nut{
+    background-color: hsl(0, 0%, 20%);
+    padding: 1px;
+    margin:0%;
+    border-radius: 10px;
+    margin-bottom: 18px;
+}
+.nut:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
